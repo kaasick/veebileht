@@ -1,2 +1,2 @@
 # veebileht
-kursuse raames
+kursuse raames ( sissejuhatus erialasse)
