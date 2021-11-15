@@ -1,0 +1,51 @@
+body { 
+    background-color: lightblue;
+
+}
+h1.pealkiri {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    text-align: center; 
+    color: purple;
+    font-size: 10vw; 
+    
+}
+img.pealkiri{
+    width: 20vw;
+    height:20vw;
+    position: absolute;
+    position: relative;top: 190px;
+    position: relative;left: 40px;
+    
+}
+p.pealkiri {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 3.4vw;
+    text-align: center;
+    font-weight:normal ;
+}
+h2.tooted {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 7vw;
+    text-align: left;
+    color: purple;
+    font-weight:bold;
+
+}
+table.tooted{
+    width: 100%;
+    border-collapse: collapse;
+}
+table.tooted, th.tooted, td.tooted{
+    border: 1px solid black;
+}
+th.tooted{
+    font-size: 3vw;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+td.tooted{
+    font-size: 2.8vw;
+    font-weight: 500;
+}
