@@ -1,0 +1,26 @@
+body { 
+    background-color: lightblue;
+}
+
+img.pealkiri {
+    position: absolute;
+    width: 20vw;
+    height: 20vw;
+    position: relative; top: 190px;
+    position: relative; left: 40px;
+
+}
+
+
+h1.pealkiri {
+    text-transform: uppercase;
+    text-align: center;
+    color: purple;
+    font-size: 7vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p.pealkiri {
+    text-align: center;
+    font-style: italic;
+    font-size: 3.4vw;
+}
