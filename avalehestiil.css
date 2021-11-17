@@ -1,0 +1,57 @@
+body { 
+    background-color: lightblue;
+}
+
+/*  Nav bar*/
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+  }
+  
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  .navbar a:hover {
+    background: #ddd;
+    color: black;
+  }
+  
+ 
+  .main {
+    margin-top: 30px;
+  }
+  
+/* div class=pealkiri */
+img.pealkiri {
+    position: absolute;
+    width: 360px;
+    height: 240px;
+    position: relative; top: 40px;
+    position: relative; left: 40px;
+
+}
+
+
+h1.pealkiri {
+    text-transform: uppercase;
+    text-align: center;
+    color: purple;
+    font-size: 7vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p.pealkiri {
+    text-align: center;
+    font-style: italic;
+    font-size: 3.4vw;
+}
