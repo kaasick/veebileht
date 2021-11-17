@@ -37,7 +37,7 @@ table.tooted{
     border-collapse: collapse;
 }
 table.tooted, th.tooted, td.tooted{
-    border: 1px solid black;
+    border: 1.2px solid black;
 }
 th.tooted{
     font-size: 3vw;
@@ -48,4 +48,21 @@ th.tooted{
 td.tooted{
     font-size: 2.8vw;
     font-weight: 500;
+}
+.navi{
+    background-color:darkmagenta;
+    overflow: hidden;
+}
+.navi a {
+    float: left;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+}
+.navi a:hover{
+    background-color: #ddd;
+    color:black
 }
