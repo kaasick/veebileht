@@ -29,7 +29,7 @@ p.sisu {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: left;
     color:black;
-    font-size: 3vw;
+    font-size: 2.7vw;
 }
 h2.sisu{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -37,4 +37,8 @@ h2.sisu{
     color: purple;
     font-size: 4vw;
     font-weight: bold;
+}
+img{
+    height: 3vw;
+    width: 3vw;
 }
