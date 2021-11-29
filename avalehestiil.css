@@ -38,13 +38,14 @@ h1.pealkiri {
     text-transform: uppercase;
     text-align: center;
     color: purple;
-    font-size: 7vw;
+    font-size: 10vw;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 p.pealkiri {
     text-align: center;
     font-style: italic;
     font-size: 3.4vw;
+    text-decoration: wavy;
 }
 video.pealkiri {
   width: 320px;
@@ -53,4 +54,33 @@ video.pealkiri {
   margin-left: auto;
   margin-right: auto;
   
+}
+img.artikkel {
+  width: 640px;
+  height: 360px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2.artikkel {
+  font-size: 2.1vw;
+  text-align: center;
+}
+a:link {
+  color: purple;
+  background-color: transparent;
+}
+a:visited {
+  color: plum;
+  background-color: transparent;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color:blue;
+  background-color: transparent;
+  text-decoration: underline;
 }
