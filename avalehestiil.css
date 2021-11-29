@@ -70,10 +70,6 @@ a:link {
   color: purple;
   background-color: transparent;
 }
-a:visited {
-  color: plum;
-  background-color: transparent;
-}
 a:hover {
   color: red;
   background-color: transparent;
